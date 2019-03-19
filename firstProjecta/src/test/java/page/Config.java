@@ -16,7 +16,7 @@ public class Config {
 
 	 public AndroidDriver<AndroidElement> _driverANDROID;
      public WebDriverWait _wait;
-    
+    //ffferferferf
 	@org.junit.Before
 public void setUp() throws Exception {
 		 DesiredCapabilities _cap = new DesiredCapabilities();
